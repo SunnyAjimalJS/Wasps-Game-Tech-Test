@@ -1,0 +1,37 @@
+#container {
+  background-image: url("./Assets/Green3.gif");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.wasp {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+  border: 2px solid black;
+  border-radius: 10px;
+  display: inline-block;
+  color: black;
+}
+
+#hit {
+  height: 100px;
+  width: 100px;
+  font-weight: bold;
+  background-color: red;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: row;
+}
+.nearly-dead {
+  border-color: red;
+}
+.taking-damage {
+  border-color: orange;
+}
+.healthy {
+  border-color: green;
+}
