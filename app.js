@@ -1,6 +1,6 @@
 /* # Wasp Game 
 
-You may only use JS / CSS / HTML for this task and no frameworks or libraries. You can use sessions. The whole program should be written in one single file and may be either procedural or object oriented. It should be possible to place the file anywhere within a website and for it to be run in a browser. 
+You may only use JS / CSS / HTML for this task and no frameworks or libraries. You can use sessions.  
 
 Create a simple text only game with a single button that hits a random wasp from a nest of wasps. Each time the button is pressed, a wasp is hit and its points reduced. Once its points have gone to zero the wasp dies and cannot be hit again. The screen shows the state of all the wasps after each hit. 
 The game is over when all wasps have died. You should be able to start a new game once the game is over. 
